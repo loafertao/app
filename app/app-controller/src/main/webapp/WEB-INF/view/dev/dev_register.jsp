@@ -58,7 +58,7 @@
 		<div class="app-location" style=" width:50%; margin:0 auto;text-align: center; background: #323542; padding:4em;">
 			<h2>App信息管理平台</h2>
 			<div class="line"><span></span></div>
-			<div class="location" style="margin:auto 0"><img src="../static/images/location.png" class="img-responsive" alt="" /></div>
+			<div class="location" style="margin:0 auto"><img src="../static/images/location.png" class="img-responsive" alt="" /></div>
 			<form id="saveForm">
 				<input type="text" id="devName" name="devName" placeholder="请输入您的姓名">
 				<input type="password" id="password" name="password" placeholder="请输入您的密码">
